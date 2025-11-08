@@ -118,7 +118,7 @@ export default function Pricing() {
             <div className="mt-8 sm:mt-12 text-center">
                 <p className="text-gray-400 text-base text-xl">
                     Need a custom plan?
-                    <a href="#" className="text-blue-400 hover:text-blue-300">Contact codEx sales Team</a>
+                    <a href="#" className="text-blue-400 hover:text-blue-300">Contact codEx sales team</a>
                 </p>
             </div>
         </div>
